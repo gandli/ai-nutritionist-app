@@ -1,3 +1,13 @@
-# ai-nutritionist
-## 项目概述
-详细内容请查看 PRD.md 文件。
+# AI Nutritionist App
+
+An AI-driven personalized nutrition and health management tool with dietary tracking, recipe generation, and nutritional analysis.
+
+## Features
+
+- Personalized nutrition planning
+- Dietary tracking
+- Recipe generation
+- Nutritional analysis
+- HealthGoal tracking
+
+See [PRD.md](PRD.md) for more details.
