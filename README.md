@@ -1,13 +1,27 @@
 # AI Nutritionist App
 
-An AI-driven personalized nutrition and health management tool with dietary tracking, recipe generation, and nutritional analysis.
+> AI-driven personalized nutrition and health management — dietary tracking, recipe generation, nutritional analysis, chronic-disease risk prediction.
 
 ## Features
 
-- Personalized nutrition planning
-- Dietary tracking
-- Recipe generation
-- Nutritional analysis
-- HealthGoal tracking
+- 🍽️ **Food recognition** — photo → ingredient + calorie analysis (3000+ foods)
+- 💬 **AI nutrition chat** — natural-language dietary advice with context
+- 📊 **Dietary tracking** — manual/log entry with natural language parsing
+- 🩺 **Health risk prediction** — WHO-based multi-factor assessment
+- 🍳 **Recipe generator** — ingredient-driven, health-goal aware
+- 💊 **Drug-nutrient interaction check** — e.g. warfarin ↔ vitamin K alerts
 
-See [PRD.md](PRD.md) for more details.
+## Tech Stack
+
+- **Frontend:** React Native / Web
+- **Backend:** Node.js / FastAPI
+- **AI:** LLM + food recognition API
+- **Data:** USDA FoodData Central
+
+## Status
+
+🟡 Idea — In Development. See [PRD.md](./PRD.md) for full specification.
+
+## License
+
+MIT
